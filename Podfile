@@ -8,6 +8,7 @@ target 'codepath-parstagram' do
   # Pods for codepath-parstagram
     pod 'Parse'
     pod 'AlamofireImage'
+    pod 'MessageInputBar'
 
   target 'codepath-parstagramTests' do
     inherit! :search_paths
